@@ -7,7 +7,7 @@
 
 # GitHub Stats
 
-![github-stat](https://github-readme-stats.vercel.app/api?username=tuanloc1105&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+![github-stat](https://github-readme-stats.vercel.app/api?username=tuanloc1105&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
 ![github-stat](https://github-readme-streak-stats.herokuapp.com/?user=tuanloc1105&theme=gruvbox&hide_border=false)
 
