@@ -26,11 +26,11 @@ Currently learning
 
 Currently, the weather is Sunny
 
- - UV: **5.6**
- - Temperature in Celsius: **34.3°C** (feels like **36.2°C**)
- - Temperature in Fahrenheit: **93.7°F** (feels like **97.1°F**)
+ - UV: **0.6**
+ - Temperature in Celsius: **32.3°C** (feels like **35.4°C**)
+ - Temperature in Fahrenheit: **90.1°F** (feels like **95.8°F**)
 
 ---
 
-Latest update is 2025-04-20 16:00:00.729 GMT+7
+Latest update is 2025-04-20 18:00:00.578 GMT+7
 
