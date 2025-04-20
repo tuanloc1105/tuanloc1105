@@ -19,3 +19,18 @@ Currently learning
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanloc1105&theme=transparent&utcOffset=7)
 
 ---
+
+## Current Weather in my local
+
+![asd](http://cdn.weatherapi.com/weather/64x64/day/113.png)
+
+Currently, the weather is Nhiều nắng
+
+ - UV: 6.3
+ - Temperature in Celsius: **31.4°C** (feels like **33.5°C**)
+ - Temperature in Fahrenheit: **88.5°F** (feels like **92.3°F**)
+
+---
+
+Latest update is 2025-04-20 09:13:49.134
+
