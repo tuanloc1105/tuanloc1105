@@ -12,25 +12,25 @@ Currently learning
 
 # GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanloc1105&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanloc1105&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanloc1105&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuanloc1105&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanloc1105&theme=transparent&utcOffset=7)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanloc1105&theme=transparent)
+![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanloc1105&theme=transparent)
+![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanloc1105&theme=transparent)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuanloc1105&theme=transparent)
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanloc1105&theme=transparent&utcOffset=7)
 
 ---
 
 ## Current Weather in my local area
 
-![asd](http://cdn.weatherapi.com/weather/64x64/day/113.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/night/113.png)
 
-Currently, the weather is Sunny
+Currently, the weather is Clear
 
- - UV: **0.6**
- - Temperature in Celsius: **32.3°C** (feels like **35.4°C**)
- - Temperature in Fahrenheit: **90.1°F** (feels like **95.8°F**)
+ - UV: **0.0** UV Index
+ - Temperature in Celsius: **30.1°C** (feels like **35.2°C**)
+ - Temperature in Fahrenheit: **86.2°F** (feels like **95.3°F**)
 
 ---
 
-Latest update is 2025-04-20 18:00:00.578 GMT+7
+Latest update was 2025-04-20 20:00:01 GMT+7
 
