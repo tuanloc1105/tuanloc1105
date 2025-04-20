@@ -24,13 +24,13 @@ Currently learning
 
 ![asd](http://cdn.weatherapi.com/weather/64x64/day/113.png)
 
-Currently, the weather is Nhiều nắng
+Currently, the weather is Sunny
 
- - UV: 6.3
- - Temperature in Celsius: **31.4°C** (feels like **33.5°C**)
- - Temperature in Fahrenheit: **88.5°F** (feels like **92.3°F**)
+ - UV: **6.3**
+ - Temperature in Celsius: **32.2°C** (feels like **34.9°C**)
+ - Temperature in Fahrenheit: **90.0°F** (feels like **94.9°F**)
 
 ---
 
-Latest update is 2025-04-20 09:13:49.134
+Latest update is 2025-04-20 10:00:00.908 GMT+7
 
