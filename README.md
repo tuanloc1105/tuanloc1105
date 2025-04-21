@@ -24,13 +24,13 @@ Currently learning
 
 ![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
 
-Currently, the weather is Partly Cloudy
+Currently, the weather is Partly cloudy
 
- - UV: **0.8** UV Index
- - Temperature in Celsius: **28.1°C** (feels like **31.6°C**)
- - Temperature in Fahrenheit: **82.5°F** (feels like **88.9°F**)
+ - UV: **9.8** UV Index
+ - Temperature in Celsius: **32.3°C** (feels like **34.1°C**)
+ - Temperature in Fahrenheit: **90.1°F** (feels like **93.3°F**)
 
 ---
 
-Latest update was 2025-04-21 08:00:00 GMT+7
+Latest update was 2025-04-21 10:00:00 GMT+7
 
