@@ -22,15 +22,15 @@ Currently learning
 
 ## Current Weather in my local area
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/113.png)
 
-Currently, the weather is Partly cloudy
+Currently, the weather is Sunny
 
- - UV: **2.3** UV Index
- - Temperature in Celsius: **35.3°C** (feels like **40.0°C**)
- - Temperature in Fahrenheit: **95.5°F** (feels like **104.0°F**)
+ - UV: **0.5** UV Index
+ - Temperature in Celsius: **32.2°C** (feels like **34.4°C**)
+ - Temperature in Fahrenheit: **90.0°F** (feels like **93.9°F**)
 
 ---
 
-Latest update was 2025-04-27 16:00:00 GMT+7
+Latest update was 2025-04-27 18:00:00 GMT+7
 
