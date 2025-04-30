@@ -27,10 +27,10 @@ Currently learning
 Currently, the weather is Clear
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **32.1°C** (feels like **38.1°C**)
- - Temperature in Fahrenheit: **89.8°F** (feels like **100.7°F**)
+ - Temperature in Celsius: **30.1°C** (feels like **34.7°C**)
+ - Temperature in Fahrenheit: **86.2°F** (feels like **94.4°F**)
 
 ---
 
-Latest update was 2025-04-30 20:00:00 GMT+7
+Latest update was 2025-04-30 22:00:00 GMT+7
 
