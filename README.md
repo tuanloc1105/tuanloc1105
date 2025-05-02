@@ -22,15 +22,15 @@ Currently learning
 
 ## Current Weather in my local area
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/176.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/night/353.png)
 
-Currently, the weather is Patchy rain nearby
+Currently, the weather is Light rain shower
 
- - UV: **0.6** UV Index
- - Temperature in Celsius: **31.3°C** (feels like **34.5°C**)
- - Temperature in Fahrenheit: **88.3°F** (feels like **94.1°F**)
+ - UV: **0.0** UV Index
+ - Temperature in Celsius: **30.3°C** (feels like **34.7°C**)
+ - Temperature in Fahrenheit: **86.5°F** (feels like **94.4°F**)
 
 ---
 
-Latest update was 2025-05-02 18:00:00 GMT+7
+Latest update was 2025-05-02 20:00:00 GMT+7
 
