@@ -26,11 +26,11 @@ Currently learning
 
 Currently, the weather is Patchy rain nearby
 
- - UV: **2.9** UV Index
- - Temperature in Celsius: **29.5°C** (feels like **33.4°C**)
- - Temperature in Fahrenheit: **85.1°F** (feels like **92.2°F**)
+ - UV: **6.3** UV Index
+ - Temperature in Celsius: **31.5°C** (feels like **35.7°C**)
+ - Temperature in Fahrenheit: **88.7°F** (feels like **96.2°F**)
 
 ---
 
-Latest update was 2025-05-04 08:00:00 GMT+7
+Latest update was 2025-05-04 10:00:00 GMT+7
 
