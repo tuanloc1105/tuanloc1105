@@ -26,11 +26,11 @@ Currently learning
 
 Currently, the weather is Light rain
 
- - UV: **9.4** UV Index
- - Temperature in Celsius: **31.3°C** (feels like **32.7°C**)
- - Temperature in Fahrenheit: **88.3°F** (feels like **90.9°F**)
+ - UV: **12.2** UV Index
+ - Temperature in Celsius: **34.1°C** (feels like **36.2°C**)
+ - Temperature in Fahrenheit: **93.4°F** (feels like **97.2°F**)
 
 ---
 
-Latest update was 2025-05-06 10:00:00 GMT+7
+Latest update was 2025-05-06 12:00:00 GMT+7
 
