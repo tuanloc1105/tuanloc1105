@@ -24,13 +24,13 @@ Currently learning
 
 ![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/113.png)
 
-Currently, the weather is Clear
+Currently, the weather is Sunny
 
- - UV: **0.0** UV Index
- - Temperature in Celsius: **28.2°C** (feels like **32.4°C**)
- - Temperature in Fahrenheit: **82.8°F** (feels like **90.2°F**)
+ - UV: **0.9** UV Index
+ - Temperature in Celsius: **29.0°C** (feels like **32.8°C**)
+ - Temperature in Fahrenheit: **84.2°F** (feels like **91.1°F**)
 
 ---
 
-Latest update was 2025-05-07 06:00:00 GMT+7
+Latest update was 2025-05-07 08:00:00 GMT+7
 
