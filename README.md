@@ -26,11 +26,11 @@ Currently learning
 
 Currently, the weather is Partly cloudy
 
- - UV: **8.5** UV Index
- - Temperature in Celsius: **34.3°C** (feels like **36.5°C**)
- - Temperature in Fahrenheit: **93.7°F** (feels like **97.8°F**)
+ - UV: **3.8** UV Index
+ - Temperature in Celsius: **35.2°C** (feels like **41.2°C**)
+ - Temperature in Fahrenheit: **95.4°F** (feels like **106.1°F**)
 
 ---
 
-Latest update was 2025-05-08 14:00:00 GMT+7
+Latest update was 2025-05-08 16:00:00 GMT+7
 
