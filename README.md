@@ -33,10 +33,10 @@ A Linux user, always try to learn new things.
 Currently, the weather is Clear
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **30.4°C** (feels like **35.1°C**)
- - Temperature in Fahrenheit: **86.7°F** (feels like **95.2°F**)
+ - Temperature in Celsius: **29.1°C** (feels like **33.4°C**)
+ - Temperature in Fahrenheit: **84.4°F** (feels like **92.1°F**)
 
 ---
 
-Latest update was 2025-05-09 00:00:00 GMT+7
+Latest update was 2025-05-09 02:00:00 GMT+7
 
