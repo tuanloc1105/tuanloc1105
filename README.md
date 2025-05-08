@@ -8,7 +8,7 @@ A Linux user, always try to learn new things.
 
 Currently learning
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # GitHub Stats
 
@@ -26,11 +26,11 @@ Currently learning
 
 Currently, the weather is Partly cloudy
 
- - UV: **3.8** UV Index
- - Temperature in Celsius: **35.2°C** (feels like **41.2°C**)
- - Temperature in Fahrenheit: **95.4°F** (feels like **106.1°F**)
+ - UV: **0.1** UV Index
+ - Temperature in Celsius: **34.1°C** (feels like **37.3°C**)
+ - Temperature in Fahrenheit: **93.4°F** (feels like **99.1°F**)
 
 ---
 
-Latest update was 2025-05-08 16:00:00 GMT+7
+Latest update was 2025-05-08 18:00:00 GMT+7
 
