@@ -28,15 +28,15 @@ A Linux user, always try to learn new things.
 
 ## Current Weather in my local area
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/296.png)
 
-Currently, the weather is Partly cloudy
+Currently, the weather is Light rain
 
  - UV: **11.2** UV Index
- - Temperature in Celsius: **34.2°C** (feels like **36.2°C**)
- - Temperature in Fahrenheit: **93.6°F** (feels like **97.2°F**)
+ - Temperature in Celsius: **34.4°C** (feels like **34.7°C**)
+ - Temperature in Fahrenheit: **93.9°F** (feels like **94.5°F**)
 
 ---
 
-Latest update was 2025-05-09 12:00:00 GMT+7
+Latest update was 2025-05-09 14:00:00 GMT+7
 
