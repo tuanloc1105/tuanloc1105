@@ -32,15 +32,15 @@ A random developer on earth, always try to learn new things.
 
 ---
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/266.png)
 
-Currently, the weather in my local area is Partly cloudy
+Currently, the weather in my local area is Light drizzle
 
- - UV: **7.7** UV Index
- - Temperature in Celsius: **27.4°C** (feels like **27.5°C**)
- - Temperature in Fahrenheit: **81.3°F** (feels like **81.5°F**)
+ - UV: **1.5** UV Index
+ - Temperature in Celsius: **29.1°C** (feels like **29.9°C**)
+ - Temperature in Fahrenheit: **84.4°F** (feels like **85.7°F**)
 
 ---
 
-Latest update was 2025-05-10 14:00:00 GMT+7
+Latest update was 2025-05-10 16:00:00 GMT+7
 
