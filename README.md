@@ -32,15 +32,15 @@ A random developer on earth, always try to learn new things.
 
 ---
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/359.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/122.png)
 
-Currently, the weather in my local area is Torrential rain shower
+Currently, the weather in my local area is Overcast
 
- - UV: **0.7** UV Index
- - Temperature in Celsius: **34.3°C** (feels like **43.4°C**)
- - Temperature in Fahrenheit: **93.7°F** (feels like **110.2°F**)
+ - UV: **0.2** UV Index
+ - Temperature in Celsius: **32.2°C** (feels like **41.7°C**)
+ - Temperature in Fahrenheit: **90.0°F** (feels like **107.0°F**)
 
 ---
 
-Latest update was 2025-05-26 16:00:00 GMT+7
+Latest update was 2025-05-26 18:00:00 GMT+7
 
