@@ -34,13 +34,13 @@ A random developer on earth, always try to learn new things.
 
 ![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
 
-Currently, the weather in my local area is Partly Cloudy
+Currently, the weather in my local area is Partly cloudy
 
- - UV: **0.8** UV Index
- - Temperature in Celsius: **27.6°C** (feels like **31.6°C**)
- - Temperature in Fahrenheit: **81.7°F** (feels like **88.9°F**)
+ - UV: **8.7** UV Index
+ - Temperature in Celsius: **31.2°C** (feels like **34.3°C**)
+ - Temperature in Fahrenheit: **88.2°F** (feels like **93.8°F**)
 
 ---
 
-Latest update was 2025-06-05 08:00:00 GMT+7
+Latest update was 2025-06-05 10:00:00 GMT+7
 
