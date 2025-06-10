@@ -32,9 +32,9 @@ A random developer on earth, always try to learn new things.
 
 ---
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/night/116.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/353.png)
 
-Currently, the weather in my local area is Partly cloudy
+Currently, the weather in my local area is Light rain shower
 
  - UV: **0.0** UV Index
  - Temperature in Celsius: **25.3°C** (feels like **27.9°C**)
@@ -42,5 +42,5 @@ Currently, the weather in my local area is Partly cloudy
 
 ---
 
-Latest update was 2025-06-11 04:00:00 GMT+7
+Latest update was 2025-06-11 06:00:00 GMT+7
 
