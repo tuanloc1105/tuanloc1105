@@ -36,11 +36,11 @@ A random developer on earth, always try to learn new things.
 
 Currently, the weather in my local area is Patchy rain nearby
 
- - UV: **1.5** UV Index
- - Temperature in Celsius: **31.0°C** (feels like **34.2°C**)
- - Temperature in Fahrenheit: **87.8°F** (feels like **93.5°F**)
+ - UV: **0.0** UV Index
+ - Temperature in Celsius: **30.4°C** (feels like **35.5°C**)
+ - Temperature in Fahrenheit: **86.7°F** (feels like **96.0°F**)
 
 ---
 
-Latest update was 2025-06-24 16:00:00 GMT+7
+Latest update was 2025-06-24 18:00:00 GMT+7
 
