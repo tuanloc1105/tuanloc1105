@@ -32,15 +32,15 @@ A random developer on earth, always try to learn new things.
 
 ---
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/113.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/116.png)
 
-Currently, the weather in my local area is Sunny
+Currently, the weather in my local area is Partly cloudy
 
- - UV: **2.6** UV Index
- - Temperature in Celsius: **28.4°C** (feels like **32.1°C**)
- - Temperature in Fahrenheit: **83.1°F** (feels like **89.7°F**)
+ - UV: **2.7** UV Index
+ - Temperature in Celsius: **30.3°C** (feels like **36.4°C**)
+ - Temperature in Fahrenheit: **86.5°F** (feels like **97.5°F**)
 
 ---
 
-Latest update was 2025-07-10 08:00:00 GMT+7
+Latest update was 2025-07-10 10:00:00 GMT+7
 
