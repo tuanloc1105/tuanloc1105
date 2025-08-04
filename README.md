@@ -32,15 +32,15 @@ A random developer on earth, always try to learn new things.
 
 ---
 
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/day/386.png)
+![weather-icon](http://cdn.weatherapi.com/weather/64x64/night/116.png)
 
-Currently, the weather in my local area is _Patchy light rain in area with thunder_
+Currently, the weather in my local area is _Partly cloudy_
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **34.2°C** (feels like **45.9°C**)
- - Temperature in Fahrenheit: **93.6°F** (feels like **114.7°F**)
+ - Temperature in Celsius: **31.2°C** (feels like **37.8°C**)
+ - Temperature in Fahrenheit: **88.2°F** (feels like **100.1°F**)
 
 ---
 
-Latest update was 2025-08-04 18:00:00 GMT+7
+Latest update was 2025-08-04 20:00:00 GMT+7
 
