@@ -36,11 +36,11 @@ A random developer on earth, always try to learn new things.
 
 Currently, the weather in my local area is _Sunny_
 
- - UV: **0.0** UV Index
- - Temperature in Celsius: **25.1°C** (feels like **27.4°C**)
- - Temperature in Fahrenheit: **77.2°F** (feels like **81.2°F**)
+ - UV: **0.8** UV Index
+ - Temperature in Celsius: **28.0°C** (feels like **31.0°C**)
+ - Temperature in Fahrenheit: **82.3°F** (feels like **87.8°F**)
 
 ---
 
-Latest update was 2025-08-10 06:00:00 GMT+7
+Latest update was 2025-08-10 08:00:00 GMT+7
 
