@@ -36,11 +36,11 @@ A random developer on earth, always try to learn new things.
 
 Currently, the weather in my local area is _Light rain_
 
- - UV: **0.4** UV Index
- - Temperature in Celsius: **25.1°C** (feels like **26.7°C**)
- - Temperature in Fahrenheit: **77.2°F** (feels like **80.1°F**)
+ - UV: **0.0** UV Index
+ - Temperature in Celsius: **24.4°C** (feels like **26.6°C**)
+ - Temperature in Fahrenheit: **75.9°F** (feels like **79.9°F**)
 
 ---
 
-Latest update was 2025-09-08 18:00:00 GMT+7
+Latest update was 2025-09-08 20:00:00 GMT+7
 
