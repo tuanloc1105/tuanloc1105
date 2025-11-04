@@ -37,10 +37,10 @@ A random developer on earth, always try to learn new things.
 Currently, the weather in my local area is _Moderate or heavy rain with thunder_
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **29.1°C** (feels like **37.2°C**)
- - Temperature in Fahrenheit: **84.4°F** (feels like **99.0°F**)
+ - Temperature in Celsius: **24.3°C** (feels like **26.7°C**)
+ - Temperature in Fahrenheit: **75.7°F** (feels like **80.1°F**)
 
 ---
 
-Latest update was 2025-11-04 21:00:00 GMT+7
+Latest update was 2025-11-05 00:00:00 GMT+7
 
