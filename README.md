@@ -36,11 +36,11 @@ A random developer on earth, always try to learn new things.
 
 Currently, the weather in my local area is _Mist_
 
- - UV: **0.0** UV Index
- - Temperature in Celsius: **25.4°C** (feels like **28.1°C**)
- - Temperature in Fahrenheit: **77.7°F** (feels like **82.5°F**)
+ - UV: **3.4** UV Index
+ - Temperature in Celsius: **28.3°C** (feels like **31.5°C**)
+ - Temperature in Fahrenheit: **82.9°F** (feels like **88.8°F**)
 
 ---
 
-Latest update was 2025-11-16 06:00:00 GMT+7
+Latest update was 2025-11-16 09:00:00 GMT+7
 
