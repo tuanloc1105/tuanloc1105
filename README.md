@@ -37,10 +37,10 @@ A random developer on earth, always try to learn new things.
 Currently, the weather in my local area is _Clear_
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **28.1°C** (feels like **32.7°C**)
- - Temperature in Fahrenheit: **82.6°F** (feels like **90.9°F**)
+ - Temperature in Celsius: **27.4°C** (feels like **32.5°C**)
+ - Temperature in Fahrenheit: **81.3°F** (feels like **90.4°F**)
 
 ---
 
-Latest update was 2025-12-06 18:00:00 GMT+7
+Latest update was 2025-12-06 21:00:00 GMT+7
 
