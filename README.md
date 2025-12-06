@@ -37,10 +37,10 @@ A random developer on earth, always try to learn new things.
 Currently, the weather in my local area is _Partly cloudy_
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **24.2°C** (feels like **26.8°C**)
- - Temperature in Fahrenheit: **75.6°F** (feels like **80.2°F**)
+ - Temperature in Celsius: **23.1°C** (feels like **25.5°C**)
+ - Temperature in Fahrenheit: **73.6°F** (feels like **77.8°F**)
 
 ---
 
-Latest update was 2025-12-07 03:00:00 GMT+7
+Latest update was 2025-12-07 06:00:00 GMT+7
 
