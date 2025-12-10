@@ -37,10 +37,10 @@ A random developer on earth, always try to learn new things.
 Currently, the weather in my local area is _Overcast_
 
  - UV: **0.0** UV Index
- - Temperature in Celsius: **25.2°C** (feels like **28.1°C**)
- - Temperature in Fahrenheit: **77.4°F** (feels like **82.7°F**)
+ - Temperature in Celsius: **25.2°C** (feels like **28.3°C**)
+ - Temperature in Fahrenheit: **77.4°F** (feels like **82.9°F**)
 
 ---
 
-Latest update was 2025-12-11 00:00:00 GMT+7
+Latest update was 2025-12-11 03:00:00 GMT+7
 
