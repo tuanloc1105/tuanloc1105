@@ -29,18 +29,3 @@ A random developer on earth, always try to learn new things.
 # Contact
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hiiamlcx/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanloc1105/) [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanloc1105@gmail.com)
-
----
-
-![weather-icon](http://cdn.weatherapi.com/weather/64x64/night/176.png)
-
-Currently, the weather in my local area is _Patchy rain nearby_
-
- - UV: **0.2** UV Index
- - Temperature in Celsius: **30.2°C** (feels like **35.1°C**)
- - Temperature in Fahrenheit: **86.4°F** (feels like **95.3°F**)
-
----
-
-Latest update was 2025-12-11 18:00:00 GMT+7
-
